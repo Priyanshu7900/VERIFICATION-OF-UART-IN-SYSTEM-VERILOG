@@ -76,6 +76,7 @@ How to check the results on ModelSim
 `include "top.sv"
 ```
 *(This ensures files are compiled in the correct order.)*
+
 6. In the **Tools & Simulators** section:  
    - For full SystemVerilog features → select **Siemens Questa** or **Aldec Riviera**.  
    - For a lighter option → select **Icarus Verilog** (limited SV support).  
